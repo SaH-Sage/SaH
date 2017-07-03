@@ -322,8 +322,8 @@ ol.progress {
   border-color: #e74c3c;
 }
 .pie-wrapper.progress-95 .pie .left-side {
-  -webkit-transform: rotate(342deg);
-          transform: rotate(342deg);
+  -webkit-transform: rotate(246deg);
+          transform: rotate(246deg);
 }
 .pie-wrapper--solid {
   border-radius: 50%;
