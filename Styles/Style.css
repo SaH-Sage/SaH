@@ -9,4 +9,6 @@ body{ 	font-family: helvetica;         height:2500px;					font-size:14px;       
         margin:0;                   	padding:0;                      /*ransition:all 0.5s ease-out;*/   	list-style-type:none;}
 main {margin: 0 auto;}
 
-main h1 { font-size: 7em}
+main h1 { font-size: 40vh}
+
+br {height: 0.4em;}
